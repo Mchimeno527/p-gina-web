@@ -1,0 +1,24 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore logs
+*.log
+
+# Ignore temporary files from text editors
+*~
+# Backup files
+*.bak
+*.swp
+
+# Ignore compiled CSS files (if they exist)
+*.css.map
+
+# Ignore environment files (in case you have environment configuration files)
+.env
